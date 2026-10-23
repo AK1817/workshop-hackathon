@@ -199,3 +199,6 @@ neo4j-mcp/
 # neo4j skills
 .agents/skills/neo4j*
 /skills-lock.json
+
+# Local credentials (copy .env.example to .env)
+.env
