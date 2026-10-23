@@ -3,7 +3,7 @@
 Usage (from food_nutrition_health/):
     uv run .\\load_data\\load_neo4j.py
 
-Connection details are read from ../workshop-hackathon/.env (NEO4J_URI, NEO4J_USERNAME,
+Connection details are read from workshop-hackathon/.env (NEO4J_URI, NEO4J_USERNAME,
 NEO4J_PASSWORD, NEO4J_DATABASE). Every write uses MERGE, so re-running is safe.
 """
 from pathlib import Path
@@ -19,7 +19,12 @@ truststore.inject_into_ssl()
 
 HERE = Path(__file__).resolve().parent
 DATA = HERE / "load_50"
-ENV_FILE = HERE.parents[1] / "workshop-hackathon" / ".env"
+# .env sits one level up when this project is a folder inside workshop-hackathon,
+# or in the sibling workshop-hackathon/ folder when it is checked out on its own
+ENV_FILE = next(
+    (p for p in (HERE.parents[1] / ".env", HERE.parents[1] / "workshop-hackathon" / ".env") if p.exists()),
+    HERE.parents[1] / "workshop-hackathon" / ".env",
+)
 
 
 def read_env(path: Path) -> dict[str, str]:
