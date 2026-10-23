@@ -1,0 +1,51 @@
+id,name,unit_name,nutrient_nbr,rank
+1002,Nitrogen,G,202.0,500.0
+1003,Protein,G,203.0,600.0
+1004,Total lipid (fat),G,204.0,800.0
+1005,"Carbohydrate, by difference",G,205.0,1110.0
+1007,Ash,G,207.0,1000.0
+1008,Energy,KCAL,208.0,300.0
+1009,Starch,G,209.0,2200.0
+1010,Sucrose,G,210.0,1600.0
+1011,Glucose (dextrose),G,211.0,1700.0
+1012,Fructose,G,212.0,1800.0
+1013,Lactose,G,213.0,1900.0
+1014,Maltose,G,214.0,2000.0
+1018,"Alcohol, ethyl",G,221.0,18200.0
+1024,Specific Gravity,SP_GR,227.0,999999.0
+1026,Acetic acid,MG,230.0,2900.0
+1032,Citric acid,MG,236.0,3500.0
+1038,Lactic acid,MG,242.0,4100.0
+1039,Malic acid,MG,243.0,4200.0
+1050,"Carbohydrate, by summation",G,205.2,1120.0
+1051,Water,G,255.0,100.0
+1056,Sorbitol,G,261.0,2600.0
+1057,Caffeine,MG,262.0,18300.0
+1058,Theobromine,MG,263.0,18400.0
+1062,Energy,kJ,268.0,400.0
+1063,"Sugars, Total NLEA",G,269.3,1500.0
+1072,"Carbohydrate, other",G,284.0,
+1075,Galactose,G,287.0,2100.0
+1078,Xylitol,G,290.0,2700.0
+1079,"Fiber, total dietary",G,291.0,1200.0
+1081,Ribose,G,294.0,999999.0
+1082,"Fiber, soluble",G,295.0,1240.0
+1084,"Fiber, insoluble",G,297.0,1260.0
+1085,Total fat (NLEA),G,298.0,900.0
+1086,Total sugar alcohols,G,299.0,999999.0
+1087,"Calcium, Ca",MG,301.0,5300.0
+1088,"Chlorine, Cl",MG,302.0,999999.0
+1089,"Iron, Fe",MG,303.0,5400.0
+1090,"Magnesium, Mg",MG,304.0,5500.0
+1091,"Phosphorus, P",MG,305.0,5600.0
+1092,"Potassium, K",MG,306.0,5700.0
+1093,"Sodium, Na",MG,307.0,5800.0
+1094,"Sulfur, S",MG,308.0,6241.0
+1095,"Zinc, Zn",MG,309.0,5900.0
+1096,"Chromium, Cr",UG,310.0,999999.0
+1097,"Cobalt, Co",UG,311.0,6244.0
+1098,"Copper, Cu",MG,312.0,6000.0
+1099,"Fluoride, F",UG,313.0,6240.0
+1100,"Iodine, I",UG,314.0,6150.0
+1101,"Manganese, Mn",MG,315.0,6100.0
+1102,"Molybdenum, Mo",UG,316.0,6243.0

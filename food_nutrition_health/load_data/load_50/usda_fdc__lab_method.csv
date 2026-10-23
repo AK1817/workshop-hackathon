@@ -1,0 +1,51 @@
+id,description,technique
+1000,NIST Handbook 133,Gravimetric
+1001,AOAC 968.06 + 992.15,Combustion
+1002,AOAC 960.39 39.1,Extraction
+1003,AOAC 922.06,Acid hydrolysis
+1004,AOAC 923.03,Gravimetric
+1005,doi.10.1021/jf60175a006,GC
+1006,doi.org/10.1093/jat/4.1.43,GC
+1007,AOAC 934.06 mod,Vacuum oven
+1008,AOAC 991.43,Enzymatic-gravimetric
+1009,AOAC 985.01 + 984.27,ICP
+1010,AOAC 2011.19,ICP-MS
+1011,AOAC 942.23 + 953.17 + 957.17,Fluorometric
+1012,In-house HPLC thiamin,HPLC
+1013,AOAC 940.33,Microbiological
+1014,AOAC 944.13 + 960.46 + 985.34,Microbiological
+1015,AOAC 945.74 + 960.46,Microbiological
+1016,AOAC 961.15,Microbiological
+1017,AOAC 992.05,Microbiological
+1018,AOAC 991.20,Kjeldahl
+1019,AOAC 989.05 mod,Acid hydrolysis
+1021,AOAC 963.15,Extraction
+1022,AOAC 945.46,Gravimetric
+1023,AOAC 979.10,Enzymatic-spectrometric
+1024,AOAC 982.14,LC
+1025,In-house pH,ISE
+1026,AOAC 936.13,Gravimetric
+1027,AOAC 950.46,Forced air
+1028,AOAC 964.22,Vacuum oven
+1029,AOAC 980.14,LC
+1030,doi.org/10.1016/S0021-9673(01)95818-2,HPLC
+1032,doi 10.1039/AN9840900489,HPLC
+1033,AOAC 967.22,Microfluorometric
+1034,AOAC 942.23,Fluorometric
+1035,AOAC 970.65,Fluorometric
+1036,AOAC 944.13,Microbiological
+1037,AOAC 945.74,Microbiological
+1038,AOAC 961.15,Microbiological
+1039,AOAC 952.20,Microbiological
+1040,USDA Guidebook 1986,HPLC
+1041,AOAC 994.10,GC/Direct saponification
+1042,AOAC 996.06,GLC
+1043,doi.10.1021/ac025624x,LC/ESI/IDMS
+1044,Blauch & Tarka J Food Sci 48 (1983) p745,HPLC
+1045,Huang et al. JAOAC (2009) p1327,HPLC/MS/MS
+1046,AOAC 986.13,HPLC
+1047,AOAC 996.11,Enzymatic-colorimetric
+1048,doi.org/10.1016/S0076-6879(97)82128-3,HPLC
+1049,doi.org/10.1016/S0889-1575(03)00029-2,HPLC
+1050,In-house HPLC retinol,HPLC
+1051,doi.org/10.1002/0471142913.faf0203s00,HPLC

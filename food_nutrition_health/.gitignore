@@ -9,7 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
-load_data/load_50
+
 
 # Large datasets (over GitHub's 100 MB file limit)
 *.h5

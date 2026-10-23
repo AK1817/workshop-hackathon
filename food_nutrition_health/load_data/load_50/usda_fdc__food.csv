@@ -1,0 +1,51 @@
+fdc_id,data_type,description,food_category_id,publication_date
+1105898,experimental_food,Metabolizable Energy of Almonds,,2020-10-30
+1105899,experimental_food,"Metabolizable Energy of Almonds, Food Processing and Structure Impact",,2020-10-30
+1105900,experimental_food,Metabolizable Energy of Cashews,,2020-10-30
+1105901,experimental_food,Metabolizable Energy of Pistachios,,2020-10-30
+1105902,experimental_food,Metabolizable Energy of Walnuts,,2020-10-30
+1105903,experimental_food,"Wild Turkey, White and Dark Meat, Raw and Roasted",,2020-10-30
+167512,sr_legacy_food,"Pillsbury Golden Layer Buttermilk Biscuits, Artificial Flavor, refrigerated dough",,2019-04-01
+167513,sr_legacy_food,"Pillsbury, Cinnamon Rolls with Icing, refrigerated dough",,2019-04-01
+167514,sr_legacy_food,"Kraft Foods, Shake N Bake Original Recipe, Coating for Pork, dry",,2019-04-01
+167515,sr_legacy_food,"George Weston Bakeries, Thomas English Muffins",,2019-04-01
+167516,sr_legacy_food,"Waffles, buttermilk, frozen, ready-to-heat",,2019-04-01
+167517,sr_legacy_food,"Waffle, buttermilk, frozen, ready-to-heat, toasted",,2019-04-01
+167518,sr_legacy_food,"Waffle, buttermilk, frozen, ready-to-heat, microwaved",,2019-04-01
+167519,sr_legacy_food,"Waffle, plain, frozen, ready-to-heat, microwave",,2019-04-01
+167520,sr_legacy_food,"Pie Crust, Cookie-type, Graham Cracker, Ready Crust",,2019-04-01
+167521,sr_legacy_food,"Pie Crust, Cookie-type, Chocolate, Ready Crust",,2019-04-01
+167522,sr_legacy_food,"Pie, Dutch Apple, Commercially Prepared",,2019-04-01
+167523,sr_legacy_food,"Pie crust, deep dish, frozen, unbaked, made with enriched flour",,2019-04-01
+167524,sr_legacy_food,"Waffles, chocolate chip, frozen, ready-to-heat",,2019-04-01
+167525,sr_legacy_food,"Tostada shells, corn",,2019-04-01
+167526,sr_legacy_food,"Bread, salvadoran sweet cheese (quesadilla salvadorena)",,2019-04-01
+167527,sr_legacy_food,"Bread, pound cake type, pan de torta salvadoran",,2019-04-01
+167528,sr_legacy_food,"Pastry, Pastelitos de Guava (guava pastries)",,2019-04-01
+167529,sr_legacy_food,"Crackers, snack, Goya Crackers",,2019-04-01
+167530,sr_legacy_food,"Crackers, cream, Gamesa Sabrosas",,2019-04-01
+167531,sr_legacy_food,"Crackers, cream, La Moderna Rikis Cream Crackers",,2019-04-01
+167532,sr_legacy_food,"Bread, white wheat",,2019-04-01
+167533,sr_legacy_food,"Bagels, wheat",,2019-04-01
+167534,sr_legacy_food,"Cream puff, eclair, custard or cream filled, iced",,2019-04-01
+167535,sr_legacy_food,"Tortillas, ready-to-bake or -fry, flour, shelf stable",,2019-04-01
+167536,sr_legacy_food,"Snacks, beef jerky, chopped and formed",,2019-04-01
+167537,sr_legacy_food,"Snacks, corn-based, extruded, chips, plain",,2019-04-01
+167538,sr_legacy_food,"Snacks, corn-based, extruded, chips, barbecue-flavor",,2019-04-01
+167539,sr_legacy_food,"Snacks, corn-based, extruded, cones, plain",,2019-04-01
+167540,sr_legacy_food,"Snacks, fruit leather, pieces",,2019-04-01
+167541,sr_legacy_food,"Snacks, fruit leather, rolls",,2019-04-01
+167542,sr_legacy_food,"Snacks, granola bars, hard, plain",,2019-04-01
+167543,sr_legacy_food,"Snacks, granola bars, hard, almond",,2019-04-01
+167544,sr_legacy_food,"Snacks, granola bars, soft, uncoated, raisin",,2019-04-01
+167545,sr_legacy_food,"Snacks, granola bars, soft, coated, milk chocolate coating, chocolate chip",,2019-04-01
+167546,sr_legacy_food,"Candies, honey-combed, with peanut butter",,2019-04-01
+167547,sr_legacy_food,"Snacks, granola bars, soft, coated, milk chocolate coating, peanut butter",,2019-04-01
+167548,sr_legacy_food,"Snacks, granola bars, soft, uncoated, peanut butter and chocolate chip",,2019-04-01
+167549,sr_legacy_food,"Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat",,2019-04-01
+167550,sr_legacy_food,"Snacks, popcorn, cakes",,2019-04-01
+167551,sr_legacy_food,"Snacks, popcorn, caramel-coated, with peanuts",,2019-04-01
+167552,sr_legacy_food,"Snacks, popcorn, caramel-coated, without peanuts",,2019-04-01
+167553,sr_legacy_food,"Snacks, potato chips, made from dried potatoes, reduced fat",,2019-04-01
+167554,sr_legacy_food,"Snacks, potato chips, made from dried potatoes, sour-cream and onion-flavor",,2019-04-01
+167555,sr_legacy_food,"Snacks, pretzels, hard, plain, salted",,2019-04-01
